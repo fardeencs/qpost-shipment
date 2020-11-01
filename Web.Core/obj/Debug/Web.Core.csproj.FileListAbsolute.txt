@@ -1,0 +1,14 @@
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\Web.Core\bin\Debug\Web.Core.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\Web.Core\bin\Debug\Web.Core.pdb
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\Web.Core\bin\Debug\Newtonsoft.Json.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\Web.Core\bin\Debug\Newtonsoft.Json.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\Web.Core\obj\Debug\Web.Core.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\Web.Core\obj\Debug\Web.Core.pdb
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\Web.Core\obj\Debug\Web.Core.csprojResolveAssemblyReference.cache
+D:\SourceCode\WebAPI\Web.Core\bin\Debug\Web.Core.dll
+D:\SourceCode\WebAPI\Web.Core\bin\Debug\Web.Core.pdb
+D:\SourceCode\WebAPI\Web.Core\bin\Debug\Newtonsoft.Json.dll
+D:\SourceCode\WebAPI\Web.Core\bin\Debug\Newtonsoft.Json.xml
+D:\SourceCode\WebAPI\Web.Core\obj\Debug\Web.Core.csprojResolveAssemblyReference.cache
+D:\SourceCode\WebAPI\Web.Core\obj\Debug\Web.Core.dll
+D:\SourceCode\WebAPI\Web.Core\obj\Debug\Web.Core.pdb

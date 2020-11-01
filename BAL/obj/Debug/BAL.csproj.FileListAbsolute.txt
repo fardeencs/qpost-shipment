@@ -1,0 +1,32 @@
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BAL\bin\Debug\BAL.dll.config
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BAL\bin\Debug\BAL.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BAL\bin\Debug\BAL.pdb
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BAL\bin\Debug\EntityFramework.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BAL\bin\Debug\EntityFramework.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BAL\obj\Debug\BAL.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BAL\obj\Debug\BAL.pdb
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BAL\bin\Debug\BusinessEntities.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BAL\bin\Debug\CommonLib.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BAL\bin\Debug\DAL.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BAL\bin\Debug\BusinessEntities.pdb
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BAL\bin\Debug\CommonLib.pdb
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BAL\bin\Debug\DAL.pdb
+D:\SourceCode\WebAPI\BAL\bin\Debug\BAL.dll.config
+D:\SourceCode\WebAPI\BAL\bin\Debug\BAL.dll
+D:\SourceCode\WebAPI\BAL\bin\Debug\BAL.pdb
+D:\SourceCode\WebAPI\BAL\bin\Debug\BusinessEntities.dll
+D:\SourceCode\WebAPI\BAL\bin\Debug\CommonLib.dll
+D:\SourceCode\WebAPI\BAL\bin\Debug\DAL.dll
+D:\SourceCode\WebAPI\BAL\bin\Debug\EntityFramework.dll
+D:\SourceCode\WebAPI\BAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\SourceCode\WebAPI\BAL\bin\Debug\BusinessEntities.pdb
+D:\SourceCode\WebAPI\BAL\bin\Debug\CommonLib.pdb
+D:\SourceCode\WebAPI\BAL\bin\Debug\DAL.pdb
+D:\SourceCode\WebAPI\BAL\bin\Debug\EntityFramework.xml
+D:\SourceCode\WebAPI\BAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\SourceCode\WebAPI\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\SourceCode\WebAPI\BAL\obj\Debug\BAL.dll
+D:\SourceCode\WebAPI\BAL\obj\Debug\BAL.pdb

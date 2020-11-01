@@ -1,0 +1,196 @@
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\ApplicationInsights.config
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\roslyn\csc.exe
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\roslyn\vbc.exe
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\WebAPI.dll.config
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\WebAPI.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\WebAPI.pdb
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\EntityFramework.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.AI.Web.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.ApplicationInsights.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Owin.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Owin.Security.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Google.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Owin.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Web.Razor.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\WebGrease.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\EntityFramework.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.AI.Web.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.ApplicationInsights.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Web.Razor.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Owin.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Owin.Security.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Google.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\CommonLib.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\CommonLib.pdb
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\BAL.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\BusinessEntities.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\DAL.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Web.Http.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\BAL.pdb
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\BusinessEntities.pdb
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\DAL.pdb
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Web.Http.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+D:\SourceCode\WebAPI\WebAPI\bin\ApplicationInsights.config
+D:\SourceCode\WebAPI\WebAPI\bin\roslyn\csc.exe
+D:\SourceCode\WebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SourceCode\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SourceCode\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SourceCode\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SourceCode\WebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SourceCode\WebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SourceCode\WebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\SourceCode\WebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\SourceCode\WebAPI\WebAPI\bin\roslyn\vbc.exe
+D:\SourceCode\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+D:\SourceCode\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\SourceCode\WebAPI\WebAPI\bin\WebAPI.dll.config
+D:\SourceCode\WebAPI\WebAPI\bin\WebAPI.dll
+D:\SourceCode\WebAPI\WebAPI\bin\WebAPI.pdb
+D:\SourceCode\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Autofac.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Autofac.Integration.WebApi.dll
+D:\SourceCode\WebAPI\WebAPI\bin\BAL.dll
+D:\SourceCode\WebAPI\WebAPI\bin\BusinessEntities.dll
+D:\SourceCode\WebAPI\WebAPI\bin\CommonLib.dll
+D:\SourceCode\WebAPI\WebAPI\bin\DAL.dll
+D:\SourceCode\WebAPI\WebAPI\bin\EntityFramework.dll
+D:\SourceCode\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.AI.Web.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Owin.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Owin.Security.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+D:\SourceCode\WebAPI\WebAPI\bin\Owin.dll
+D:\SourceCode\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+D:\SourceCode\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+D:\SourceCode\WebAPI\WebAPI\bin\System.Web.Http.dll
+D:\SourceCode\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+D:\SourceCode\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+D:\SourceCode\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+D:\SourceCode\WebAPI\WebAPI\bin\System.Web.Razor.dll
+D:\SourceCode\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\SourceCode\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+D:\SourceCode\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\SourceCode\WebAPI\WebAPI\bin\WebGrease.dll
+D:\SourceCode\WebAPI\WebAPI\bin\BAL.pdb
+D:\SourceCode\WebAPI\WebAPI\bin\BusinessEntities.pdb
+D:\SourceCode\WebAPI\WebAPI\bin\CommonLib.pdb
+D:\SourceCode\WebAPI\WebAPI\bin\DAL.pdb
+D:\SourceCode\WebAPI\WebAPI\bin\Autofac.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Autofac.Integration.WebApi.xml
+D:\SourceCode\WebAPI\WebAPI\bin\EntityFramework.xml
+D:\SourceCode\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.AI.Web.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.ApplicationInsights.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+D:\SourceCode\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+D:\SourceCode\WebAPI\WebAPI\bin\System.Web.Http.xml
+D:\SourceCode\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+D:\SourceCode\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+D:\SourceCode\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+D:\SourceCode\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+D:\SourceCode\WebAPI\WebAPI\bin\System.Web.Razor.xml
+D:\SourceCode\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+D:\SourceCode\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\SourceCode\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Owin.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Owin.Security.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SourceCode\WebAPI\WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SourceCode\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+D:\SourceCode\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+D:\SourceCode\WebAPI\WebAPI\obj\Debug\WebAPI.pdb

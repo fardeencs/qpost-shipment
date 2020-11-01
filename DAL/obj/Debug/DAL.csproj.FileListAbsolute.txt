@@ -1,0 +1,28 @@
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\DAL\bin\Debug\DAL.dll.config
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\DAL\bin\Debug\DAL.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\DAL\bin\Debug\DAL.pdb
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\DAL\bin\Debug\BusinessEntities.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\DAL\bin\Debug\CommonLib.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\DAL\bin\Debug\EntityFramework.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\DAL\bin\Debug\BusinessEntities.pdb
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\DAL\bin\Debug\CommonLib.pdb
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\DAL\bin\Debug\EntityFramework.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\DAL\obj\Debug\DAL.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\DAL\obj\Debug\DAL.pdb
+D:\SourceCode\WebAPI\DAL\bin\Debug\DAL.dll.config
+D:\SourceCode\WebAPI\DAL\bin\Debug\DAL.dll
+D:\SourceCode\WebAPI\DAL\bin\Debug\DAL.pdb
+D:\SourceCode\WebAPI\DAL\bin\Debug\BusinessEntities.dll
+D:\SourceCode\WebAPI\DAL\bin\Debug\CommonLib.dll
+D:\SourceCode\WebAPI\DAL\bin\Debug\EntityFramework.dll
+D:\SourceCode\WebAPI\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\SourceCode\WebAPI\DAL\bin\Debug\BusinessEntities.pdb
+D:\SourceCode\WebAPI\DAL\bin\Debug\CommonLib.pdb
+D:\SourceCode\WebAPI\DAL\bin\Debug\EntityFramework.xml
+D:\SourceCode\WebAPI\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\SourceCode\WebAPI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\SourceCode\WebAPI\DAL\obj\Debug\DAL.dll
+D:\SourceCode\WebAPI\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,4 @@
+D:\SourceCode\EPossAsmx\ePoss\EpossApp\ePoss\CommonLib\bin\Release\CommonLib.dll
+D:\SourceCode\EPossAsmx\ePoss\EpossApp\ePoss\CommonLib\bin\Release\CommonLib.pdb
+D:\SourceCode\EPossAsmx\ePoss\EpossApp\ePoss\CommonLib\obj\Release\CommonLib.dll
+D:\SourceCode\EPossAsmx\ePoss\EpossApp\ePoss\CommonLib\obj\Release\CommonLib.pdb

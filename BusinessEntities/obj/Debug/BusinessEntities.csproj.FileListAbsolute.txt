@@ -1,0 +1,8 @@
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BusinessEntities\bin\Debug\BusinessEntities.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BusinessEntities\bin\Debug\BusinessEntities.pdb
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BusinessEntities\obj\Debug\BusinessEntities.dll
+c:\Users\fardeen\Documents\Visual Studio 2015\Projects\WebAPI\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\SourceCode\WebAPI\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\SourceCode\WebAPI\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\SourceCode\WebAPI\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\SourceCode\WebAPI\BusinessEntities\obj\Debug\BusinessEntities.pdb
